@@ -39,9 +39,9 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
 
 13- Codigo .jsonl
 
-{
+     {
 
-  "input_data": {
+        "input_data": {
   
     "data": [
     
@@ -72,9 +72,9 @@ Bootcamp Microsoft Azure AI Fundamentals - [Digitalinnovation Dio](dio.me)
          "windspeed": 0.3 
          
        }
-     ]
-  }
-}
+        ]
+          }
+            }
 
 
 ## 🔧 Habilidades
